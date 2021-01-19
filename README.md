@@ -1,1 +1,10 @@
-# AdvancedAlgos
+- **By** Benamara Abdelkader Chihab   &   Djelid Aymen
+# Advanced Algorithms
+
+**Advanced-Algos** is  our course assignement for the first semester at Paris Dauphine University. It is composed of 2 main algorithms in which all this 4 type of algorithms were achieved : `Greedy Algorithms `,`Dynamic Programming` , `Divide & Conquer`and `Branch & Bound`.
+This 2 subjects were about **Discrete Unit Disc Cover Problem (DUDC)** and **Upper Envelope Problem (UEP)** and we were able to make `pseudo-code` for all of this methods but for now we implemented **`DUDC Problem`** in **1D** and **2D**.
+
+## Discrete Unit Disc Cover Problem (DUDC)
+### Implementation in 1-dimension 
+For this version of **`DUDC`** we were able to solve it with a greedy algorithm and we proved the optimality of this greedy choice.
+**Greedy Choice :** Sort all points from left to right  and do the same for the unit circles ,  and when looping throw the points we will take the right-most circle that contains this actual point and after that we need to remove all other points which are covered by the taken circle.
