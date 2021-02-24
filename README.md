@@ -18,5 +18,5 @@ For this version of **`DUDC`** we were able to solve it with a branch & bound al
 4.1. If the actual solution is not possible ( a point can't be covered by no one of the **Q*** 
 4.2. If we already have a solution with a lower bound or equal 
 
-**NB :** The pseudo-code is available   [here](https://github.com/ChihabEddine98/AdvancedAlgos/blob/main/APA_rapport.pdf)
+**PS :** The pseudo-code is available   [here](https://github.com/ChihabEddine98/AdvancedAlgos/blob/main/APA_rapport.pdf)
 and  the implementation [here](https://github.com/ChihabEddine98/AdvancedAlgos/blob/main/DUDC/DUDC.ipynb)
