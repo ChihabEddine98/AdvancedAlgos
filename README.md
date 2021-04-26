@@ -2,7 +2,7 @@
 # Advanced-Algorithms
 - **By** Benamara Abdelkader Chihab   &   Djelid Aymen
 
-**Advanced-Algos** is  our course assignement for the first semester at Paris Dauphine University. It is composed of 2 main algorithms in which all this 4 type of algorithms were achieved : `Greedy Algorithms `,`Dynamic Programming` , `Divide & Conquer`and `Branch & Bound`.
+**Advanced-Algos** is  our course assignement for the first semester at Paris Dauphine University. It is composed of 2 main algorithms in which all this 4 types of algorithms were achieved : `Greedy Algorithms `,`Dynamic Programming` , `Divide & Conquer`and `Branch & Bound`.
 This 2 subjects were about **Discrete Unit Disc Cover Problem (DUDC)** and **Upper Envelope Problem (UEP)** and we were able to make `pseudo-code` for all of this methods but for now we implemented **`DUDC Problem`** in **1D** and **2D**.
 
 ## Discrete Unit Disc Cover Problem (DUDC)
