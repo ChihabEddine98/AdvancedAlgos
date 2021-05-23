@@ -22,5 +22,6 @@ For this version of **`DUDC`** we were able to solve it with a branch & bound al
 **PS :** The pseudo-code is available   [here](https://github.com/ChihabEddine98/AdvancedAlgos/blob/main/APA_rapport.pdf)
 and  the implementation [here](https://github.com/ChihabEddine98/AdvancedAlgos/blob/main/DUDC/DUDC.ipynb)
 
-TODO -- code UEP
-Optim DUDC 2D B&B
+TODO -- 
+1. Code UEP
+2. Optim DUDC 2D B&B
