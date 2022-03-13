@@ -1,6 +1,6 @@
 
 # Advanced-Algorithms
-- **Authors** 
+**Authors** 
 - Benamara Abdelkader Chihab  
 - Djelid Aymen
 
