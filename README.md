@@ -26,4 +26,4 @@ and  the implementation [here](https://github.com/ChihabEddine98/AdvancedAlgos/b
 
 TODO -- 
 1. Code UEP
-2. Optim DUDC 2D BnB
+2. Optim DUDC 2D B&B
