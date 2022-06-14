@@ -25,5 +25,5 @@ For this version of **`DUDC`** we were able to solve it with a branch & bound al
 and  the implementation [here](https://github.com/ChihabEddine98/AdvancedAlgos/blob/main/DUDC/DUDC.ipynb)
 
 TODO -- 
-1. Code UEP
+1. Code UEP ++
 2. Optim DUDC 2D B&B
